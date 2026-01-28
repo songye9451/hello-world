@@ -1,0 +1,26 @@
+@charset "utf-8";
+.box{
+	width:980px;
+	margin:0 auto;
+	display:flex;}
+.left{
+	background:#252121;
+	width:20%;}
+.right{
+	width:80%;}
+ul li{
+	margin:auto;
+	list-style:none;
+	width:80%;
+	height:40px;
+	line-height:40px;}
+ul li a{
+	color:#FFFFFF;
+	text-decoration:none;
+	display:block;
+	background:#F8070B;
+	height:39px;
+	border-bottom:solid 1px #FFFCFC;
+	}
+ul li a:hover{
+	background:#00F41B;}
